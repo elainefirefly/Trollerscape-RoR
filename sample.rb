@@ -1,4 +1,4 @@
-# Sample code taken from the RoR project
+# Sample code from the RoR project
 
 
 class Vote < ApplicationRecord
