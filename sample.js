@@ -1,4 +1,4 @@
-# Sample JavaScript code from the RoR project
+// Sample JavaScript code from the RoR project
 
 $('#error-container').html("<%= j (render partial: 'layouts/errors', layout: false) %>");
 $('#login-link').hide();
