@@ -12,6 +12,13 @@ Graphics and UX/UI design are also created by me, except for the background patt
 * Trolls can comment on answers
 * Answers and comments can be upvoted or downvoted
 
+### Schema Design and Web Tools
+* Polymorphic associations and polymorphic forms
+* PostgreSql database
+* JQuery and AJAX were applied to forms and vote buttons
+* Vote button is not an image but created using pure CSS technique
+
+
 
 
 
